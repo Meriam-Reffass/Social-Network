@@ -32,7 +32,7 @@ const PostSchema = new Schema({
             required:true
         },
         avatar:{
-            type:STRING 
+            type:String
         },
        
 }],
